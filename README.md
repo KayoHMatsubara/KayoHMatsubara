@@ -1,7 +1,7 @@
 ### Olá! Sou o Kayo Matsubara 👋
 
 
-- 🔭 Atualmente trabalho como HelpDesk, mas estou começando a migrar para front-end
+- 🔭 Atualmente trabalho como Analista de dados, mas estou começando a migrar para front-end
 - 🌱 Estou fazendo faculdade de ADS (Analise e desenvolvimento de sistema)
 - 😄 Pronouns: Ele/Dele
 
@@ -26,18 +26,10 @@
 
  <div> 
    <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-   </a>
-
-   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-   </a>
-
-   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
 
-   <a href="#" target="_blank">
+   <a href="linkedin.com/in/kayohmatsubara" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>   
   </div>
