@@ -20,6 +20,15 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayohmatsubara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayohmatsubara&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
 ## 🌐 Contato
 
 <div align="center">
@@ -29,7 +38,7 @@
   <a href="https://www.instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:kayooohenrique@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
