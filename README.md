@@ -1,34 +1,47 @@
-### Olá! Sou o Kayo Matsubara 👋
-#
+## 👋 Olá! Eu sou o Kayo Matsubara
 
-- 🔭 Atualmente trabalho como Analista de dados, mas estou começando a migrar para front-end
-- 🌱 Estou fazendo faculdade de ADS (Analise e desenvolvimento de sistema)
-- 😄 Pronouns: Ele/Dele
+🎯 Analista de Dados em transição para o Desenvolvimento Front-end  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+😄 Pronomes: Ele/Dele  
+🚀 Atualmente aprendendo **React**, **TypeScript** e **integração com APIs REST**
 
-  Tecnologias e Frameworks
-  #
-  Tecnologias:
-  <div style="display= inline_block"><br>
-    <img align="center" alt="Kayo-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Kayo-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-    <img align="center" alt="Kayo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="center" alt="Kayo-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Kayo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="Kayo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
-  </div>
+---
 
-#
+## 🧰 Tecnologias e Ferramentas
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</div>
 
- <div> 
-   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-   </a>
+---
 
-   <a href="https://www.linkedin.com/in/kayohmatsubara" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>   
-  </div>
+## 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayohmatsubara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayohmatsubara&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+---
+
+## 🌐 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kayohmatsubara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
 
