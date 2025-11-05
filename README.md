@@ -2,7 +2,6 @@
 👋 Olá! Eu sou o Kayo Matsubara  
 🎯 Analista de Dados em transição para o Desenvolvimento Front-end   
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-😄 Pronomes: Ele/Dele  
 🚀 Atualmente aprendendo React, TypeScript e integração com APIs REST  
 #
  **Linguagens de Programação**
